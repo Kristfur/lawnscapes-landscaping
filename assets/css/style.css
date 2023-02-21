@@ -1,6 +1,49 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Nunito:wght@300&family=Oswald:wght@300&display=swap');
 
 body {
-    font-family: Lato, sans-serif;
+    font-family: Nunito, sans-serif;
     font-weight: 300;
+    background-color: #c2ecff;
+    color: #578e44;
+}
+
+header {
+    display: flex;
+    background-color: #fff;
+    width: 100%;
+    margin: auto;
+    max-height: 160px;
+    border-radius: 8px;
+    box-shadow: 4px 4px;
+    color: #8fc8e2a8;
+}
+
+#logo {
+    padding-left: 16px;
+    max-height: 160px;
+}
+
+/* navigation links */
+#menu { 
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+
+#menu li {
+    display: block;
+    height: 100%;
+    margin: 20px 24px;
+    letter-spacing: 2px;
+    line-height: 16px;
+    font-size: 24px;
+    list-style-type: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #578e44;
+    font-weight: bold;
 }
