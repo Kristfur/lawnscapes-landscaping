@@ -23,8 +23,12 @@ header {
     color: #8fc8e2a8;
 }
 
+header ul {
+    padding: 0;
+}
+
 #logo {
-    padding-left: 16px;
+    padding-left: 8px;
     max-height: 160px;
 }
 
@@ -43,7 +47,7 @@ header {
     margin: 20px 24px;
     letter-spacing: 2px;
     line-height: 16px;
-    font-size: 24px;
+    font-size: 22px;
     list-style-type: none;
 }
 
