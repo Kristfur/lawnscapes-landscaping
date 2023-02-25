@@ -115,3 +115,44 @@ footer ul {
 .social-media i:hover {
     color: #223a1a; 
 }
+
+/* Home page */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;    
+    margin-top: 20px;
+    overflow: hidden;
+    position: relative;    
+    border-radius: 8px;
+    box-shadow: 4px 4px;
+    color: #8fc8e2a8;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image-p.jpg') no-repeat bottom left;
+    background-size: cover;
+}
+
+#click-me-text {
+    background-color: #8fc8e2e9; 
+    width: 240px;
+    height: 160px;
+    bottom: 24px;
+    right: 24px;
+    position: absolute;    
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#click-me-text a {
+    color: #578e44;    
+    font-size: 180%;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
