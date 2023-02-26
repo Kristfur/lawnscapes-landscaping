@@ -201,3 +201,52 @@ footer ul {
 }
 
 /* Contact */
+#contact-form-section {
+    background-color: #fff;
+    padding: 16px;
+}
+
+#contact-form {
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    color: #578e44;
+}
+
+label {
+    text-align: left;
+    font-size: 20px;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.name {
+    display: inline-block;
+    width: 49%;
+}
+
+.name label {
+    display: inline;
+}
+
+#div-lname {
+    float: inline-end;
+}
+
+.cb {
+    display: block;
+    float: left;
+    width: 50%;
+    margin: 8px 0;
+    font-size: 16px;
+}
