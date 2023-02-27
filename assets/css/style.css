@@ -250,3 +250,24 @@ textarea {
     margin: 8px 0;
     font-size: 16px;
 }
+
+#lbl-comments {
+    padding-top: 16px;
+}
+
+button {
+    color: #578e44;
+    background-color: #ddd;
+    height: 50px;
+    width: 48%;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#btn-reset {
+    color: #ddd;
+    background-color: #578e44;
+    float: inline-end;
+}
