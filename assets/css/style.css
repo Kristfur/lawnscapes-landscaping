@@ -26,6 +26,10 @@ body {
     text-transform: capitalize;
 }
 
+b {
+    font-weight: bold;
+}
+
 /* Header */
 header {
     display: flex;
@@ -283,7 +287,17 @@ button {
     text-align: center;
 }
 
-p b {
-    font-weight: bold;
+/* 404 page */
+#not-found {
+    padding: 8px 16px;
 }
 
+#not-found p {
+    color: #578e44;
+    text-align: center;
+}
+
+#click a{
+    text-decoration: none;
+    color: #578e44;
+}
