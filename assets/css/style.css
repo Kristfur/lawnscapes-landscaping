@@ -16,6 +16,7 @@ body {
     box-shadow: 4px 4px;
     color: #8fc8e2a8;
     margin-top: 20px;
+    background-color: #fff;
 }
 
 .title-text {
@@ -271,3 +272,18 @@ button {
     background-color: #578e44;
     float: inline-end;
 }
+
+/* Submit */
+#thank-you {
+    padding: 8px 16px;
+}
+
+#thank-you p {
+    color: #578e44;
+    text-align: center;
+}
+
+p b {
+    font-weight: bold;
+}
+
