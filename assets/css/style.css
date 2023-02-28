@@ -412,4 +412,19 @@ button {
     #pictures {
         column-count: 3;
     }
+
+    .cb {
+        width: 33%;
+        font-size: 20px;
+    }
+
+    @media only screen and (min-width: 900px) {
+        .img-container {
+            width: 33%;
+        }
+
+        #pictures {
+            column-count: 4;
+        }
+    }
 }
