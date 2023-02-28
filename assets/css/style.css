@@ -261,8 +261,8 @@ textarea {
 }
 
 button {
-    color: #578e44;
-    background-color: #ddd;
+    color: #ddd;
+    background-color: #578e44;
     height: 50px;
     width: 48%;
     border-radius: 4px;
@@ -272,8 +272,8 @@ button {
 }
 
 #btn-reset {
-    color: #ddd;
-    background-color: #578e44;
+    color: #578e44;
+    background-color:#ddd;
     float: inline-end;
 }
 
