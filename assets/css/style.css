@@ -199,13 +199,13 @@ footer ul {
     position: relative;
     text-align: center;
     color: white;
-    height: 200px;
+    height: 220px;
     width: auto;
     margin: 16px 0;
 }
 
 .img-container a img {
-    height: 200px;
+    height: 220px;
     width: 90%;
     background-color: #578e44;
     border-radius: 4px;
@@ -235,7 +235,8 @@ footer ul {
 }
 
 .text-service ul {
-    padding: 16px;
+    padding: 8px;
+    padding-left: 20px;
 }
 
 #services-section {
