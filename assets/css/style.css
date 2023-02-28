@@ -418,39 +418,46 @@ button {
         font-size: 20px;
     }
 
-    @media only screen and (min-width: 900px) {
-        .img-container {
-            width: 33%;
-        }
+    #contact-form-section {
+        max-width: 650px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 
-        #pictures {
-            column-count: 4;
-        }
-
-        #pictures {
-            padding: 16px;
-        }
+@media only screen and (min-width: 900px) {
+    .img-container {
+        width: 33%;
     }
 
-    @media only screen and (min-width: 1200px) {
-        header {
-            max-width: 1200px;
-        }
+    #pictures {
+        column-count: 4;
+    }
 
-        section {
-            margin: 0 auto 0;
-            max-width: 1168px;
-            padding-right: 16px;
-            padding-left: 16px;
-        }
+    #pictures {
+        padding: 16px;
+    }
+}
 
-        #hero-outer {
-            max-width: 1200px;
-            padding: 0;
-        }
 
-        footer {
-            max-width: 1200px;
-        }
+@media only screen and (min-width: 1200px) {
+    header {
+        max-width: 1200px;
+    }
+
+    section {
+        margin: 0 auto 0;
+        max-width: 1168px;
+        padding-right: 16px;
+        padding-left: 16px;
+    }
+
+    #hero-outer {
+        max-width: 1200px;
+        padding: 0;
+    }
+
+    footer {
+        max-width: 1200px;
     }
 }
