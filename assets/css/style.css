@@ -211,10 +211,15 @@ footer ul {
     border-radius: 4px;
 }
 
-#hint-click {
+.help-text {
     text-align: center;
     color: #578e44;
     margin: 0 0 16px;
+}
+
+.help-text a {
+    color: #578e44;
+    text-decoration: none;
 }
 
 .text-service {
