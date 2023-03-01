@@ -150,6 +150,22 @@ footer ul {
     background: url('../images/hero-image-p.jpg') no-repeat bottom left;
     background-size: cover;
     background-color: #578e44;
+
+    /* Animation */
+    animation-name: hero-move;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-move {
+    from{
+        transform: scale(1.1);
+        background-position: right;
+    }
+    to{
+        transform: scale(1);
+        background-position: left;
+    }
 }
 
 #click-me-text {
