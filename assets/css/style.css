@@ -357,6 +357,10 @@ textarea {
     font-size: 16px;
 }
 
+#wrap {
+    height: 120px;
+}
+
 #lbl-comments {
     padding-top: 16px;
 }
@@ -468,6 +472,10 @@ button {
     .cb {
         width: 33%;
         font-size: 20px;
+    }
+
+    #wrap {
+        height: 100px;
     }
 
     #contact-form-section {

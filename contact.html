@@ -57,7 +57,8 @@
                 <input type="email" id="email-address" name="email" placeholder="Email address.." required>
                 <label for="address">Address</label>
                 <input type="text" id="address" name="address" placeholder="Address.." required>
-                <label for="lawn-cut" class="cb">
+                <div id="wrap">
+                    <label for="lawn-cut" class="cb">
                     Lawn Cut
                     <input type="checkbox" id="lawn-cut" name="lawn-cut" value="lawn-cut">
                 </label>
@@ -81,6 +82,7 @@
                     Other
                     <input type="checkbox" id="other" name="other" value="other">
                 </label>
+            </div>
                 <label id="lbl-comments" for="comments">Comments</label>
                 <textarea id="comments" name="comments" placeholder="Any comments?" style="height:200px"></textarea>
                 <button id="btn-sumbit" type="submit">Submit</button>
