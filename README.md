@@ -71,7 +71,7 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
     - The form consists of the following elements:
         - First Name (required, type=text)
         - Last Name (required, type=text)
-        - Phone Number (required, type=number)
+        - Phone Number (required, type=text)
         - Email Address (required, type=email)
         - Address (required, type=text)
         - Service (required, options are listed below)
