@@ -101,3 +101,41 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
 - Database of users info for company and alert/email system for when a user submits a contact form
 - Email and phone number in footer are clickable and open an email/phone platform for user to immediately and easily contact company
 - Ability for images in gallery to enlarge when clicked
+
+# Design
+## Wireframes
+Home page
+
+![Wireframe for home page - phone](docs/read-me-images/p-home.png)
+
+![Wireframe for home page - computer](docs/read-me-images/c-home.png)
+
+Services page
+
+![Wireframe for services page - phone](docs/read-me-images/p-services.png)
+
+![Wireframe for services page - computer](docs/read-me-images/c-services.png)
+
+Gallery page
+
+![Wireframe for gallery page - phone](docs/read-me-images/p-gallery.png)
+
+![Wireframe for gallery page - computer](docs/read-me-images/c-gallery.png)
+
+Contact page
+
+![Wireframe for contact page - phone](docs/read-me-images/p-contact.png)
+
+![Wireframe for contact page - computer](docs/read-me-images/c-contact.png)
+
+Thank You page
+
+![Wireframe for thank you page - phone](docs/read-me-images/p-submit.png)
+
+![Wireframe for thank you page - computer](docs/read-me-images/c-submit.png)
+
+404 page
+
+![Wireframe for 404 page - phone](docs/read-me-images/p-404.png)
+
+![Wireframe for 404 page - computer](docs/read-me-images/c-404.png)
