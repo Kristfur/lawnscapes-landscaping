@@ -139,3 +139,35 @@ Thank You page
 ![Wireframe for 404 page - phone](docs/read-me-images/p-404.png)
 
 ![Wireframe for 404 page - computer](docs/read-me-images/c-404.png)
+
+# Technologies
+- HTML
+    - The structure of website was built with HTML code
+
+- Css
+    - The website was styled with a CSS file
+
+- Gitpod
+    - The website was developed using [gitpod.io](https://gitpod.io)
+
+- GitHub
+    - The source code is hosted on [GitHub](https://github.com/Kristfur/lawnscapes-landscaping) and deployed with Git Pages ([Link to live website](https://kristfur.github.io/lawnscapes-landscaping/))
+
+- Git
+    - Used for version control during the development of the website
+
+- Font Awesome
+    - Icons for the social media in footer were obtained from [https://fontawesome.com/](https://fontawesome.com/)
+
+- Favicon.io
+    - Favicon files were created by [https://favicon.io/](https://favicon.io/)
+
+- balsamiq
+    - Wireframe diagrams were created using [balsamiq](https://balsamiq.com/)
+
+- remove.bg
+    - Whitespace in logo background was removed with [https://www.remove.bg/](https://www.remove.bg/)
+
+- iloveimg
+    - Images size (width/height) was reduced with [https://www.iloveimg.com/](https://www.iloveimg.com/)
+
