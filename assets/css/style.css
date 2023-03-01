@@ -172,8 +172,8 @@ footer ul {
     background-color: #8fc8e2e9; 
     width: 240px;
     height: 160px;
-    bottom: 24px;
-    right: 24px;
+    top: 24px;
+    left: 16px;
     position: absolute;    
     padding: 16px;
     border-radius: 8px;
