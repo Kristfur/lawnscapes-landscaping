@@ -67,11 +67,25 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
 
 ## Contact
 - Contact Us from
-    - This contact form is for the users to contact the company about getting a service
+    - This contact form is for the users to contact the company about getting a service, and the company can get their information to contact them back
     - The form consists of the following elements:
         - First Name (required, type=text)
         - Last Name (required, type=text)
-        - Phone Number (required, type=text)
+        - Phone Number (required, type=number)
         - Email Address (required, type=email)
         - Address (required, type=text)
+        - Service (required, options are listed below)
+            - Lawn Cut (type=checkbox)
+            - hedge Trim (type=checkbox)
+            - Weeding (type=checkbox)
+            - Leaf Raking (type=checkbox)
+            - Waste Removal (type=checkbox)
+            - Other (type=checkbox)
         - Comments (optional, type=textarea)
+        - Submit and Reset buttons
+    - Once all required elements are filled correctly and the user clicks submit, they will be brought to a Thank You page
+    - The Thank You page provides the user with a link back to the home page, but also lets them know that they can call us now if they dont want to wait for the company to get back to them
+
+![Contact form snipet](../lawnscapes-landscaping/docs/read-me-images/contact-form.JPG)
+![Thank you page](../lawnscapes-landscaping/docs/read-me-images/thank-you.JPG)
+
