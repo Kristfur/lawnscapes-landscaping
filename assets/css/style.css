@@ -4,7 +4,7 @@ body {
     font-family: Nunito, sans-serif;
     font-weight: 300;
     background-color: #c2ecff;
-    color: #578e44;
+    color: #41612e;
 }
 
 .align-center {
@@ -20,7 +20,7 @@ body {
 }
 
 .title-text {
-    color: #578e44;
+    color: #41612e;
     background-color: #fff;
     border-radius: 8px;
     text-transform: capitalize;
@@ -31,7 +31,7 @@ b {
 }
 
 img {
-    background-color: #578e44;
+    background-color: #41612e;
 }
 
 /* Header */
@@ -73,17 +73,17 @@ header ul {
 
 #menu a {
     text-decoration: none;
-    color: #578e44;
+    color: #41612e;
     font-weight: bold;
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #578e44;
+    border-bottom: 2px solid #41612e;
     color: #223a1a;
 }
 
 .active {
-    border-bottom: 2px solid #578e44;
+    border-bottom: 2px solid #41612e;
 }
 
 /* Footer */
@@ -105,7 +105,7 @@ footer ul {
 }
 
 .contact-info{
-    color: #578e44;
+    color: #41612e;
     width: 100%;
 }
 
@@ -114,7 +114,7 @@ footer ul {
 }
 
 .social-media {
-    color: #578e44;
+    color: #41612e;
     width: 100%;
     justify-content: center;
 }
@@ -127,7 +127,7 @@ footer ul {
 .social-media i {
     font-size: 220%;
     text-decoration: none;
-    color: #578e44;
+    color: #41612e;
 }
 
 .social-media i:hover {
@@ -149,7 +149,7 @@ footer ul {
     width: 100%;
     background: url('../images/hero-image-1200px-p.jpg') no-repeat bottom left;
     background-size: cover;
-    background-color: #578e44;
+    background-color: #41612e;
 
     /* Animation */
     animation-name: hero-move;
@@ -181,7 +181,7 @@ footer ul {
 }
 
 #click-me-text a {
-    color: #578e44;    
+    color: #41612e;    
     font-size: 180%;
     font-weight: bold;
     text-transform: uppercase;
@@ -203,7 +203,7 @@ footer ul {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #578e44;
+    color: #41612e;
 }
 
 .info-img {
@@ -224,7 +224,7 @@ footer ul {
 
 .info-txt a {
     text-decoration: underline;
-    color: #578e44;
+    color: #41612e;
 }
 
 /* Services */
@@ -244,19 +244,19 @@ footer ul {
 .img-container a img {
     height: 220px;
     width: 90%;
-    background-color: #578e44;
+    background-color: #41612e;
     border-radius: 4px;    
     object-fit: cover;
 }
 
 .help-text {
     text-align: center;
-    color: #578e44;
+    color: #41612e;
     margin: 0 0 16px;
 }
 
 .help-text a {
-    color: #578e44;
+    color: #41612e;
     text-decoration: none;
 }
 
@@ -315,7 +315,7 @@ footer ul {
 #contact-form {
     font-family: Lato, sans-serif;
     font-weight: 500;
-    color: #578e44;
+    color: #41612e;
 }
 
 label {
@@ -367,7 +367,7 @@ textarea {
 
 button {
     color: #ddd;
-    background-color: #578e44;
+    background-color: #41612e;
     height: 50px;
     width: 48%;
     border-radius: 4px;
@@ -377,7 +377,7 @@ button {
 }
 
 #btn-reset {
-    color: #578e44;
+    color: #41612e;
     background-color:#ddd;
     float: inline-end;
 }
@@ -388,7 +388,7 @@ button {
 }
 
 #thank-you p {
-    color: #578e44;
+    color: #41612e;
     text-align: center;
 }
 
@@ -398,13 +398,13 @@ button {
 }
 
 #not-found p {
-    color: #578e44;
+    color: #41612e;
     text-align: center;
 }
 
 #click a{
     text-decoration: none;
-    color: #578e44;
+    color: #41612e;
 }
 
 /* Website responsiveness */
