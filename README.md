@@ -89,3 +89,9 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
 ![Contact form snipet](../lawnscapes-landscaping/docs/read-me-images/contact-form.JPG)
 ![Thank you page](../lawnscapes-landscaping/docs/read-me-images/thank-you.JPG)
 
+## Exsisting Features
+- Responsive design
+- Easy and intuitive to navigate
+- Contact form and thank you page
+- 404 page for invalid links
+- 5 services for user to choose from
