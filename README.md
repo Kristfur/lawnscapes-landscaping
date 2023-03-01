@@ -35,3 +35,32 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
 
 ![404 page snipet](../lawnscapes-landscaping/docs/read-me-images/404-oops.JPG)
 
+
+## Home page
+ - Hero image
+    - This image is the first thing the user sees when the come to the website, it shows the user what the website is about
+    - The image pans from right to left on smaller screens, and zooms out on larger screens to show user the whole image and to bring life to the website
+    - The image has a call-to-action block of text that the user can click to go to the services page
+
+![Hero image snipet](../lawnscapes-landscaping/docs/read-me-images/hero-snip.JPG)
+
+- Company information blocks
+    - The home page has three information blocks that give the user knowledge about the company
+    - Each block of text is accompanied by a related image to add to the user experience
+
+![About info snipet](../lawnscapes-landscaping/docs/read-me-images/about-me-snip.JPG)
+
+## Services
+- Service information blocks
+    - This page consists of blocks that provide information on each service that is offered
+    - Each block has the service name, a related image as the background and some text describing what is included with the service
+    - The text on each block is clickable and will bring the user to the contact us page
+
+![Services block snipet](../lawnscapes-landscaping/docs/read-me-images/services-block.JPG)
+
+## Gallery
+- Masonry style gallery
+    - This page gives the user images of the work done by our company
+    - The images are arranged in a masonry style and are responsive to the screen size
+
+![Gallery snipet](../lawnscapes-landscaping/docs/read-me-images/gallery-snip.JPG)
