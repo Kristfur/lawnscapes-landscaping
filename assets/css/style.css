@@ -198,6 +198,7 @@ footer ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: #578e44;
 }
 
 .info-img {
@@ -210,6 +211,11 @@ footer ul {
     border-radius: 8px;
     height: auto;
     width: 100%;   
+}
+
+.info-block a {
+    text-decoration: underline;
+    color: #578e44;
 }
 
 /* Services */
