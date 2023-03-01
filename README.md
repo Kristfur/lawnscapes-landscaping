@@ -64,3 +64,14 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
     - The images are arranged in a masonry style and are responsive to the screen size
 
 ![Gallery snipet](../lawnscapes-landscaping/docs/read-me-images/gallery-snip.JPG)
+
+## Contact
+- Contact Us from
+    - This contact form is for the users to contact the company about getting a service
+    - The form consists of the following elements:
+        - First Name (required, type=text)
+        - Last Name (required, type=text)
+        - Phone Number (required, type=text)
+        - Email Address (required, type=email)
+        - Address (required, type=text)
+        - Comments (optional, type=textarea)
