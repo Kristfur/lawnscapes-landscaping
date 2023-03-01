@@ -95,3 +95,8 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
 - Contact form and thank you page
 - 404 page for invalid links
 - 5 services for user to choose from
+
+## Features To Implement
+- Checkboxes in contact form are automaticaly selected when user clicks on a service on services page
+- Database of users info for company and alert/email system for when a user submits a contact form
+- Email and phone number in footer are clickable and open an email/phone platform for user to immediately and easily contact company
