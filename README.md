@@ -437,3 +437,6 @@ Website behaved as expected, form did not submit but displayed an error.
 
 ![CSS validator results](docs/read-me-images/css-validator.JPG)
 
+## Unfixed Bugs
+Currently there are no know bugs, if you happen to come across a bug, please let me know and I will address it in a future release.
+
