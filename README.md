@@ -218,3 +218,199 @@ Fix: All images recieved appropiate alt descriptions
 ![Lighthouse result gallery page](docs/read-me-images/gallery-lighthouse.JPG)
 
 ![Lighthouse result contact page](docs/read-me-images/contact-lighthouse.JPG)
+
+## Functional Testing
+
+### Navigation Links
+
+Every navigation link was tested to ensure they work as intended. Tests were done by hovering over, thenclicking on each navigation link.
+
+- Home -> index.html
+- Services -> services.html
+- Gallery -> gallery.html
+- Contact -> contact.html
+
+All links behaved as expected, they redirected the user to the correct page and reacted correctly to the hover action.
+
+### Social Media Links in Footer
+Each social media link was tested by hovering over, then clicking the corrosponding icon.
+
+Every link worked as expected, and the icons reacted correctly to the hover action.
+
+### Hero image CTA text
+
+The call to action text overlayed on top of the hero image on the home page was tested to ensure it redirected to the services.html page.
+
+The link behaved as espected and redirected the user to the correct page.
+
+### Services links
+
+Each link in the services page was tested to make sure they redirected to the contact.html page.
+
+Every link behaved as espected and redirected the user to the correct page.
+
+
+### Contact Form Testing
+The contact foorm was thoroughly tested to ensure correct use and behaviour. The following is the testing process:
+
+*Correct inputs* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name: John
+    - Last Name: Doe
+    - Phone Number: 01 123 456 789
+    - Email Address: john.doe@email.com
+    - Address: 1 Church Road, Wexford
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form submits without errors and user is redirected to [submit.html](https://kristfur.github.io/lawnscapes-landscaping/submit.html) page
+
+Actual: 
+
+Website behaves as expected, the form submitted and the user was redirected.
+
+
+*Missing required First Name* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name:
+    - Last Name: Doe
+    - Phone Number: 01 123 456 789
+    - Email Address: john.doe@email.com
+    - Address: 1 Church Road, Wexford
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form does not submit, but displays an error telling the user that the First Name field is required.
+
+Actual: 
+
+Website behaves as expected, form did not submit but displayed an error.
+
+*Missing required Last Name* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name: John
+    - Last Name: 
+    - Phone Number: 01 123 456 789
+    - Email Address: john.doe@email.com
+    - Address: 1 Church Road, Wexford
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form does not submit, but displays an error telling the user that the Last Name field is required.
+
+Actual: 
+
+Website behaves as expected, form did not submit but displayed an error.
+
+*Missing required Phone Number* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name: John
+    - Last Name: Doe
+    - Phone Number:
+    - Email Address: john.doe@email.com
+    - Address: 1 Church Road, Wexford
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form does not submit, but displays an error telling the user that the Phone Number field is required.
+
+Actual: 
+
+Website behaves as expected, form did not submit but displayed an error.
+
+*Missing required Email Address* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name: John
+    - Last Name: Doe
+    - Phone Number: 01 123 456 789
+    - Email Address:
+    - Address: 1 Church Road, Wexford
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form does not submit, but displays an error telling the user that the Email Address field is required.
+
+Actual: 
+
+Website behaves as expected, form did not submit but displayed an error.
+
+*Invalid Email Address* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name: John
+    - Last Name: Doe
+    - Phone Number: 01 123 456 789
+    - Email Address: johnDoe
+    - Address: 1 Church Road, Wexford
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form does not submit, but displays an error telling the user that the Email Address is invalid.
+
+Actual: 
+
+Website behaves as expected, form did not submit but displayed an error.
+
+*Missing required Address* 
+
+Steps taken:
+
+1. Navigate to the [contact page](https://kristfur.github.io/lawnscapes-landscaping/contact.html)
+2. Fill the form as follows:
+    - First Name: John
+    - Last Name: Doe
+    - Phone Number: 01 123 456 789
+    - Email Address: john.doe@email.com
+    - Address:
+    - Lawn Cut: Selected
+    - Comments: This is a comment
+3. Click the submit button
+
+Expected:
+
+Form does not submit, but displays an error telling the user that the Address field is required.
+
+Actual: 
+
+Website behaves as expected, form did not submit but displayed an error.
