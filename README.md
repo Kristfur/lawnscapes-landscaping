@@ -440,3 +440,43 @@ Website behaved as expected, form did not submit but displayed an error.
 ## Unfixed Bugs
 Currently there are no know bugs, if you happen to come across a bug, please let me know and I will address it in a future release.
 
+# Deployment
+
+## Version Control
+This website was pushed to GitHub to the remote repository 'lawnscapes-landscaping'.
+
+The following Git commands were used throughput development:
+
+    git add <file> 
+
+Was uesd to add files to the staging area before they are commited
+
+
+    git commit -m "commit message"
+
+Was used to commit changes to the local repository queue
+
+    git push
+
+Was uesd to push all committed code to the remote repository on GitHub
+
+## Deployment to GitHub Pages
+This website was deployed to GitHub Pages, the steps to deployment are:
+1. In the GitHub repository, navigate to settings
+2. In settings, navigate to Pages
+3. In the source section, select the branch *main*
+4. Click 'save'
+5. The live website link will appear near the top of the page after some time
+
+The live linke can be found here [https://kristfur.github.io/lawnscapes-landscaping/](https://kristfur.github.io/lawnscapes-landscaping/)
+
+## Clone the repository Code Locally
+
+The steps to clone the repository are as follows:
+
+1. From the repository, click the *code* drop down menu
+2. Click on *HTTPS*
+3. Copy the link
+4. Open your IDE (that had git installed)
+5. Paste the git command into the IDE terminal
+6. The project is now clones on your local machine
