@@ -505,6 +505,13 @@ button {
         max-width: 1200px;
     }
 
+    main > div {
+        margin: 0 auto 0;
+        max-width: 1168px;
+        padding-right: 16px;
+        padding-left: 16px;
+    }
+
     section {
         margin: 0 auto 0;
         max-width: 1168px;
