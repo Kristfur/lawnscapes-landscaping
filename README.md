@@ -170,3 +170,41 @@ Thank You page
 
 - iloveimg
     - Images size (width/height) was reduced with [https://www.iloveimg.com/](https://www.iloveimg.com/)
+
+# Testing
+## Responsiveness
+All website pages were tested for responsiveness on screen sizes of 320px and above on Firefox, Chrome, Edge and Opera browsers.
+
+Steps taken:
+1. Open browser and go to the link [https://kristfur.github.io/lawnscapes-landscaping/](https://kristfur.github.io/lawnscapes-landscaping/)
+2. Open developer tools by pressing CTRL+SHIFT+I on the keyboard
+3. Toggle device toolbar and set width to 320px
+4. Drag window to maximum width
+
+Expected:
+The website is responsive and all elements are on screen and not overlapping, the images are not pixelated or stretched.
+
+Actual:
+Website behaved as expected
+
+The website was also tested on the following devices for responsiveness:
+- iPhone 8 (behaved as expected)
+
+## Accessibility
+The [Wave Accessibility](https://wave.webaim.org/) tool was used for accessibility testing. 
+
+Testing was focused on the following:
+- All image elements had an alt description for a screen reader to read out
+- All forms have lebels for each input for a screen reader to read out
+- All links to external pages have proper aria labels
+- Color contrast for text meets the minimum ratio
+
+Multiple accessibility issues were found, but were promptly resolved.
+
+Issue #1: Color contrast of the smaller text did not meet the minimum ratio
+
+Fix: The text color was changed from <span style="color:#578e44">#578e44</span> to <span style="color:#41612e">#41612e</span> to meet the minimum requirement
+
+Issue #2: All of the images on the services page lacked an alt description:
+
+Fix: All images recieved appropiate alt descriptions
