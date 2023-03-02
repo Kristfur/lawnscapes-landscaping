@@ -156,6 +156,9 @@ Thank You page
 - Git
     - Used for version control during the development of the website
 
+- Dev Tools
+    - Used throughout the development process to test code with instant response time
+
 - Font Awesome
     - Icons for the social media in footer were obtained from [https://fontawesome.com/](https://fontawesome.com/)
 
@@ -170,6 +173,9 @@ Thank You page
 
 - iloveimg
     - Images size (width/height) was reduced with [https://www.iloveimg.com/](https://www.iloveimg.com/)
+
+- tinyjpg
+    - Images file size was reduced with [https://tinyjpg.com/](https://tinyjpg.com/)
 
 # Testing
 ## Responsiveness
