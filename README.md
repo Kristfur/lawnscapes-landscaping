@@ -20,6 +20,7 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
     - Footer contains contact information for Lawnscapes Landscaping and social media icons
     - The socila media icons will open a new tab when clicked, and bring the user to the social media account for Lawnscapes Landscaping.
     - Footer is present on all web pages
+    - Allows user to easliy find our company on social media 
 
 ![Footer snipet](docs/read-me-images/footer.JPG)
 
@@ -40,7 +41,7 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
  - Hero image
     - This image is the first thing the user sees when the come to the website, it shows the user what the website is about
     - The image pans from right to left on smaller screens, and zooms out on larger screens to show user the whole image and to bring life to the website
-    - The image has a call-to-action block of text that the user can click to go to the services page
+    - The image has a call-to-action block of text that the user can click to go to the services page for easy navigation
 
 ![Hero image snipet](docs/read-me-images/hero-snip.JPG)
 
@@ -54,7 +55,7 @@ Click [here](https://kristfur.github.io/lawnscapes-landscaping/) to view the liv
 - Service information blocks
     - This page consists of blocks that provide information on each service that is offered
     - Each block has the service name, a related image as the background and some text describing what is included with the service
-    - The text on each block is clickable and will bring the user to the contact us page
+    - The text on each block is clickable and will bring the user to the contact us page for ease of navigation
 
 ![Services block snipet](docs/read-me-images/services-block.JPG)
 
