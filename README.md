@@ -274,7 +274,7 @@ Form submits without errors and user is redirected to [submit.html](https://kris
 
 Actual: 
 
-Website behaves as expected, the form submitted and the user was redirected.
+Website behaved as expected, the form submitted and the user was redirected.
 
 
 *Missing required First Name* 
@@ -298,7 +298,7 @@ Form does not submit, but displays an error telling the user that the First Name
 
 Actual: 
 
-Website behaves as expected, form did not submit but displayed an error.
+Website behaved as expected, form did not submit but displayed an error.
 
 *Missing required Last Name* 
 
@@ -321,7 +321,7 @@ Form does not submit, but displays an error telling the user that the Last Name 
 
 Actual: 
 
-Website behaves as expected, form did not submit but displayed an error.
+Website behaved as expected, form did not submit but displayed an error.
 
 *Missing required Phone Number* 
 
@@ -344,7 +344,7 @@ Form does not submit, but displays an error telling the user that the Phone Numb
 
 Actual: 
 
-Website behaves as expected, form did not submit but displayed an error.
+Website behaved as expected, form did not submit but displayed an error.
 
 *Missing required Email Address* 
 
@@ -367,7 +367,7 @@ Form does not submit, but displays an error telling the user that the Email Addr
 
 Actual: 
 
-Website behaves as expected, form did not submit but displayed an error.
+Website behaved as expected, form did not submit but displayed an error.
 
 *Invalid Email Address* 
 
@@ -390,7 +390,7 @@ Form does not submit, but displays an error telling the user that the Email Addr
 
 Actual: 
 
-Website behaves as expected, form did not submit but displayed an error.
+Website behaved as expected, form did not submit but displayed an error.
 
 *Missing required Address* 
 
@@ -413,4 +413,4 @@ Form does not submit, but displays an error telling the user that the Address fi
 
 Actual: 
 
-Website behaves as expected, form did not submit but displayed an error.
+Website behaved as expected, form did not submit but displayed an error.
