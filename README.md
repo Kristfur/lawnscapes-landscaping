@@ -170,4 +170,3 @@ Thank You page
 
 - iloveimg
     - Images size (width/height) was reduced with [https://www.iloveimg.com/](https://www.iloveimg.com/)
-
