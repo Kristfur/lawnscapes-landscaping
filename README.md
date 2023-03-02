@@ -480,3 +480,18 @@ The steps to clone the repository are as follows:
 4. Open your IDE (that had git installed)
 5. Paste the git command into the IDE terminal
 6. The project is now clones on your local machine
+
+## Credits
+
+[Tacos Travels](https://github.com/Gareth-McGirr/tacos-travels)
+- Elements of this project were used as a referance for my website and documentation. 
+
+
+### Media
+
+Website logo was created by me using Canva.
+
+Image of map of Ireland was taken from Wikipedia.
+
+The remainder of the images were taken from [Pexels](https://www.pexels.com/) (-p) and [Unsplash](https://unsplash.com/) (-u).
+
