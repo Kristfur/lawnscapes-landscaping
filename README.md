@@ -414,3 +414,26 @@ Form does not submit, but displays an error telling the user that the Address fi
 Actual: 
 
 Website behaved as expected, form did not submit but displayed an error.
+
+## Validator Testing
+
+- HTML 
+    - No errors showed up when checking with the [W3C Validator](https://validator.w3.org/)
+
+![HTML validator results home page](docs/read-me-images/home-validator.JPG)
+
+![HTML validator results services page](docs/read-me-images/services-validator.JPG)
+
+![HTML validator results gallery page](docs/read-me-images/gallery-validator.JPG)
+
+![HTML validator results contact page](docs/read-me-images/contact-validator.JPG)
+
+![HTML validator results submit page](docs/read-me-images/submit-validator.JPG)
+
+![HTML validator results 404 page](docs/read-me-images/404-validator.JPG)
+
+- CSS
+    - No errors showed up when checking with the [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/)
+
+![CSS validator results](docs/read-me-images/css-validator.JPG)
+
