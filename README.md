@@ -208,3 +208,13 @@ Fix: The text color was changed from <span style="color:#578e44">#578e44</span> 
 Issue #2: All of the images on the services page lacked an alt description:
 
 Fix: All images recieved appropiate alt descriptions
+
+## Lighthouse Testing
+
+![Lighthouse result home page](docs/read-me-images/home-lighthouse.JPG)
+
+![Lighthouse result services page](docs/read-me-images/services-lighthouse.JPG)
+
+![Lighthouse result gallery page](docs/read-me-images/gallery-lighthouse.JPG)
+
+![Lighthouse result contact page](docs/read-me-images/contact-lighthouse.JPG)
